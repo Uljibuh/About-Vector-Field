@@ -1,5 +1,3 @@
-# About-Vector-Field
-
 # Roadmap
 
 The goal of this repository is to build geometric intuition for vector calculus, Fourier analysis, and PDEs through mathematics, visualization, and coding.
