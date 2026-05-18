@@ -69,9 +69,7 @@ Topics:
 - Differential operators in Fourier space
 
 Key transition:
-\[
-\nabla \rightarrow ik
-\]
+$$\[\nabla \rightarrow ik\]$$
 
 Coding goals:
 - FFT implementation
